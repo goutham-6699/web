@@ -34,7 +34,7 @@
 .banner-text h1 {
     font-family: 'Varela Round', sans-serif; /* Font family */
     font-size: 24px; /* Font size */
-    color: hsl(200, 70%, 50%); /* HSL color value */
+    color: black; /* HSL color value */
     font-weight: 300; /* Adjust font weight for lighter text */
     /* Additional styles */
 }
