@@ -39,3 +39,29 @@
     /* Additional styles */
 }
 
+/* Main styles */
+main {
+    padding: 20px; /* Padding around the main content */
+}
+
+
+/* Section styles */
+section {
+    background-color: #fff; /* Background color for sections */
+    margin-bottom: 20px; /* Bottom margin between sections */
+    padding: 20px; /* Padding inside sections */
+    border-radius: 8px; /* Rounded corners for sections */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for sections */
+}
+
+/* Heading styles */
+h2 {
+    font-size: 24px; /* Font size for section headings */
+    color: #333; /* Text color for headings */
+}
+
+/* Paragraph styles */
+p {
+    font-size: 16px; /* Font size for paragraphs */
+    color: #666; /* Text color for paragraphs */
+}
