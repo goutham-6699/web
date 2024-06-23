@@ -1,0 +1,39 @@
+/* Reset some default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styles for the header strip */
+.header-strip {
+    background-color: #ffffff; /* White background */
+    padding: 20px 0; /* Padding for top and bottom */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+    width: 100%; /* Make the header strip full width */
+}
+
+/* Container to center content and limit width */
+.container {
+    max-width: 1200px; /* Adjust maximum width as needed */
+    margin: 0 auto; /* Center align */
+    display: flex;
+    justify-content: flex-start; /* Align items to the start (left) */
+    align-items: center;
+}
+
+/* Logo styles */
+.logo img {
+    height: 40px; /* Adjust height of the logo */
+    /* Optional: Add margin or padding */
+}
+
+
+
+/* Banner text styles */
+.banner-text h1 {
+    font-family: 'Varela Round', sans-serif; /* Specify Varela Round as the font family */
+    font-size: 24px; /* Adjust font size */
+    color: #333; /* Text color */
+    /* Additional styles */
+}
